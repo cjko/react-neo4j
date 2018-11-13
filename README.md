@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `neo4j start`
 
-Runs local instance of Neo4j graph database.
+Version 3.4.9 installed. Runs local instance of Neo4j graph database.
+Open [http://localhost:7474](http://localhost:7474) to view Neo4J GUI in the browser.
 
 ### `npm start`
 
